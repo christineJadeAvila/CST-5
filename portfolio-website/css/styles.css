@@ -1,0 +1,65 @@
+
+body {
+    margin: 2rem;
+    font-family: 'Poppins';
+    font-size: 25px;
+
+    background-image: url(/imgs/pexels-tatiana-syrikova-3968175.jpg);
+}
+
+.topnav-right {
+    float: right;   
+    margin-right: 1rem;
+    margin-left: 1rem;
+}
+
+header{
+    text-align: center;
+}
+
+h1{
+    color: #7856FF;
+}
+
+.know-more {
+    font-size: smaller;
+    text-decoration: underline;
+    color:#7856FF;
+}
+
+footer {
+    text-align: center;
+    margin-top: 200px;
+}
+
+footer:p {
+    
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    color: #7856FF;
+}
+
+.about-me {
+    margin-left:200px;
+    margin-right:200px;
+    font-size: small;
+    text-align: justify;
+}
+#soc-meds{
+    margin-left: 5.5in;
+}
+li {
+    float:left;
+    list-style-type: none;
+}
+
+li:hover{
+   transform: rotate(20deg);
+}
+
